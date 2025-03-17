@@ -1,0 +1,206 @@
+{
+    "hero": {
+        "title": "Industries We Empower with Seamless Communication",
+        "description": "Tagline",
+        "image": "industries_banner.png",
+        "bgcolor": "#f0f0f0",
+        "ctas": [
+            {
+                "id": "1",
+                "title": "Learn More",
+                "link": "https://example.com/learn-more",
+                "isPrimary": true
+            }
+        ]
+    },
+    "industryOverview": {
+        "title": "Industry Overview",
+        "description": "Industries we serve.",
+        "image": {
+            "icons": [
+                {
+                    "title": "Industry: Healthcare",
+                    "icon": "healthcare_icon.png"
+                },
+                {
+                    "title": "Industry: Corporate",
+                    "icon": "corporate_icon.png"
+                },
+                {
+                    "title": "Industry: Education",
+                    "icon": "education_icon.png"
+                },
+                {
+                    "title": "Industry: Social Networking",
+                    "icon": "social_networking_icon.png"
+                },
+                {
+                    "title": "Industry: Dating Platforms",
+                    "icon": "dating_icon.png"
+                }
+            ]
+        }
+    },
+    "industrySpecificSolutions": {
+        "title": "Industry-Specific Solutions",
+        "data": [
+            {
+                "title": "Industry: Healthcare & Telemedicine",
+                "description": "JupiterMeet facilitates seamless virtual consultations between doctors and patients.",
+                "image": "healthcare_consultation.png"
+            },
+            {
+                "title": "Industry: Corporate Business",
+                "description": "Enhancing communication in professional settings with virtual boardroom meetings.",
+                "image": "corporate_meeting.png"
+            },
+            {
+                "title": "Industry: Education",
+                "description": "Supporting online classrooms and webinars for effective learning.",
+                "image": "online_classroom.png"
+            },
+            {
+                "title": "Industry: Social Networking",
+                "description": "Enabling virtual meet-ups and social events for community engagement.",
+                "image": "social_meetup.png"
+            },
+            {
+                "title": "Industry: Dating Platforms",
+                "description": "Creating dynamic user interactions in virtual dating settings.",
+                "image": "dating_interaction.png"
+            },
+            {
+                "title": "Industry: Group Discussions",
+                "description": "Facilitating active group video calls for collaborative discussions.",
+                "image": "group_call.png"
+            },
+            {
+                "title": "Industry: Interviews",
+                "description": "Streamlining virtual interview setups for hiring processes.",
+                "image": "virtual_interview.png"
+            },
+            {
+                "title": "Industry: Inspection",
+                "description": "Conducting remote site inspections using video tools.",
+                "image": "remote_inspection.png"
+            },
+            {
+                "title": "Industry: Religious Gatherings",
+                "description": "Supporting virtual community prayers and gatherings.",
+                "image": "virtual_prayer.png"
+            }
+        ]
+    },
+    "featuresAndServices": {
+        "title": "Features That Transform Industry Communication",
+        "image": "features_visual.png",
+        "data": [
+            {
+                "title": "Secure Video Conferencing",
+                "description": "One or Two lined descripton.",
+                "image": "Secure_Video_Conferencing.png"
+            },
+            {
+                "title": "End-to-End Encryption",
+                "description": "One or Two lined descripton.",
+                "image": "End-to-End_Encryption.png"
+            },
+            {
+                "title": "White-Label Customization",
+                "description": "One or Two lined descripton.",
+                "image": "White-Label_Customization.png"
+            },
+            {
+                "title": "Easy Integration with Business Tools",
+                "description": "One or Two lined descripton.",
+                "image": "Easy_Integration_Tools.png"
+            },
+            {
+                "title": "Scalable for Teams of All Sizes",
+                "description": "One or Two lined descripton.",
+                "image": "Scalable_for_Teams_of_All_Sizes.png"
+            }
+        ]
+    },
+    "eventCategories": {
+        "title": "Tailored for Your Events and Business Needs",
+        "data": [
+            {
+                "title": "Virtual Conferences",
+                "description": "One or Two lined descripton.",
+                "image": "Virtual_Conferences.png"
+            },
+            {
+                "title": "Webinars",
+                "description": "One or Two lined descripton.",
+                "image": "Webinars.png"
+            },
+            {
+                "title": "Training Sessions",
+                "description": "One or Two lined descripton.",
+                "image": "Training_Sessions.png"
+            },
+            {
+                "title": "Remote Team Meetings",
+                "description": "One or Two lined descripton.",
+                "image": "Remote_Team_Meetings.png"
+            },
+            {
+                "title": "Hybrid Events",
+                "description": "One or Two lined descripton.",
+                "image": "Hybrid_Events.png"
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "What Our Clients Say",
+        "data": [
+            {
+                "title": "Client Name 1",
+                "description": "JupiterMeet improved our meeting efficiency by 40%.",
+                "avatar": "client1_avatar.png",
+                "rating": 5
+            },
+            {
+                "title": "Client Name 2",
+                "description": "The platform is incredibly user-friendly and reliable.",
+                "avatar": "client2_avatar.png",
+                "rating": 4.5
+            }
+        ]
+    },
+    "caseStudies": {
+        "title": "In-Depth Success Stories",
+        "description": "One or Two lined descripton.",
+        "data": [
+            {
+                "client": "Client A",
+                "description": "challenges faced, solutions discovered, impact made",
+                "image": "client_a_case_study.png"
+            },
+            {
+                "client": "Client B",
+                "description": "challenges faced, solutions discovered, impact made",
+                "image": "client_b_case_study.png"
+            }
+        ]
+    },
+    "cta": {
+        "title": "Ready to Elevate Communication in Your Industry?",
+        "image": "professionals_using_jupitermeet.png",
+        "ctas": [
+            {
+                "id": "1",
+                "title": "Buy Now",
+                "link": "https://example.com/buy-now",
+                "isPrimary": true
+            },
+            {
+                "id": "2",
+                "title": "View Demo",
+                "link": "https://example.com/view-demo",
+                "isPrimary": false
+            }
+        ]
+    }
+}

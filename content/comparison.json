@@ -1,0 +1,199 @@
+{
+    "pageMetadata": {
+        "pageTitle": "On-Premises MS Teams Alternative - JupiterMeet",
+        "urlSlug": "/msteams-alternative",
+        "metaDescription": "Discover why JupiterMeet is the ultimate Microsoft Teams alternative.",
+        "compare_app_name": "Microsoft Teams",
+        "primary-color": "#332323",
+        "bgColor": "#f5f5f5"
+    },
+    "hero": {
+        "title": "JupiterMeet: The Perfect Alternative to Microsoft Teams",
+        "description": "Why JupiterMeet is better than any video conferencing tool",
+        "image": "https://thertclabs.com/jupitermeet-pro/images/hero/1-2.png",
+        "bgColor": "#ffffff",
+        "ctas": [
+            {
+                "title": "Switch Now!",
+                "link": "https://example.com/product-purchase",
+                "isPrimary": true
+            },
+            {
+                "title": "View Demo",
+                "link": "https://example.com/jupitermeet-demo",
+                "isPrimary": false
+            }
+        ]
+    },
+    "whyJupiterMeet": {
+        "title": "Why Choose JupiterMeet Over Microsoft Teams?",
+        "description": "Here are few reaasons to consider JupiterMeet",
+        "bgColor": "#e9ecef",
+        "data": [
+            {   "id": "1",
+                "title": "Benefit- Data privacy & ownership",
+                "description": "Description about the benefit of JupiterMeet.",
+                "icon": "comparison/data-security.jpg"
+            },
+            {
+                "id": "2",
+                "title": "Benefit- Full self-hosting capability",
+                "description": "Description about the benefit of JupiterMeet..",
+                "icon": "comparison/self-hosted.jpg"
+            },
+            {
+                "id": "3",
+                "title": "Benefit- White-label branding options",
+                "description": "Description about the benefit of JupiterMeet.",
+                "icon": "comparison/white-label.jpg"
+            },
+            {
+                "id": "4",
+                "title": "Benefit- No third-party dependency",
+                "description": "Description about the benefit of JupiterMeet.",
+                "icon": "comparison/third-party.jpg"
+            },
+            {
+                "id": "5",
+                "title": "Benefit- Cost-effective pricing",
+                "description": "Description about the benefit of JupiterMeet.",
+                "icon": "comparison/cost-effective.jpg"
+            }
+        ]
+    },
+    "keyFeatures": {
+        "title": "Features That Make JupiterMeet Stand Out",
+        "icon": "key-features.jpg",
+        "bgColor": "#e9ecef",
+        "data": [
+            {
+                "title": "End-to-End Encryption",
+                "description": "Ensures your conversations are private and secure.",
+                "icon": "keyfeatures/end-to-end-encryption.jpg"
+            },
+            {
+                "title": "Screen Sharing",
+                "description": "Easily share your screen with participants.",
+                "icon": "keyfeatures/meeting-recording.jpg"
+            },
+            {
+                "title": "Meeting Recording",
+                "description": "Record meetings for future reference.",
+                "icon": "keyfeatures/screen-sharing.jpg"
+            }
+            
+
+        ]
+    },
+    "comparisonTable": {
+        "title": "JupiterMeet vs. Competitors: A Clear Comparison",
+        "description": "one to two liner description",
+        "data": [
+            {
+                "id": 1,
+                "title": "Self-hosted",
+                "description_1": "Yes",
+                "description_2": "no",
+                "description_3": "😀"
+            },
+            {
+                "id": 2,
+                "title": "Features",
+                "description_1": "Yes",
+                "description_2": "no",
+                "description_3": "😀"
+            },
+            {
+                "id": 3,
+                "title": "Security",
+                "description_1": "Yes",
+                "description_2": "no",
+                "description_3": "😀"
+            },
+            {
+                "id": 4,
+                "title": "Customization Options",
+                "description_1": "Yes",
+                "description_2": "no",
+                "description_3": "😀"
+            },
+            {
+                "id": 5,
+                "title": "Pricing model",
+                "description_1": "Yes",
+                "description_2": "no",
+                "description_3": "😀"
+            },
+            {
+                "id": 6,
+                "title": "Support & Service",
+                "description_1": "Yes",
+                "description_2": "no",
+                "description_3": "😀"
+            }
+        ]
+    },
+    "versionRecommendations": {
+        "title": "Which JupiterMeet Version Is Right for You?",
+        "image": "version-control/update-software.jpg",
+        "bgColor": "#e9ecef",
+        "data": [
+            {
+                "title": "audience: Small Businesses & Startups",
+                "description": "recommendedVersion: JupiterMeet (Mesh Topology)"
+            },
+            {
+                "title": "audience: Enterprises & Educational Institutions",
+                "description": "recommendedVersion: JupiterMeet Pro (SFU Topology)"
+            }
+        ]
+    },
+    "comparisonWithOthers": {
+        "title": "How JupiterMeet Stacks Up Against Other Solutions",
+        "data": [
+            {
+                "title": "Name of competitor: TrueConf",
+                "image": "compare-with-other/trueconf.jpg"
+            },
+            {
+                "title": "Name of competitor: Jitsi",
+                "image": "compare-with-other/jitsi.jpg"
+            } 
+        ]
+    },
+    "testimonial": {
+        "title": "What our customers say about us",
+        "bgColor": "#e9ecef",
+        "data": [
+            {
+                "description": "JupiterMeet has transformed our communication!",
+                "image": "https://th.bing.com/th/id/OIP._nXNtUe_NAiy250X4Dd4oAHaDp?w=301&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+                "rating": 5
+            },
+            {
+                "description": "The best alternative to MS Teams we've found.",
+                "image": "https://th.bing.com/th/id/OIP.hPXOIj5PXoFx4vyIO31WDgHaE8?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+                "rating": 4.5
+            },
+            {
+                "description": "The best alternative to MS Teams we've found.",
+                "image": "https://th.bing.com/th/id/OIP.hPXOIj5PXoFx4vyIO31WDgHaE8?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+                "rating": 4.5
+            }
+        ]
+    },
+    "callToAction": {
+        "ctas": [
+            {
+                "title": "Buy Now",
+                "link": "https://example.com/buy",
+                "isPrimary": true
+            },
+            {
+                "title": "View Product",
+                "link": "https://example.com/jupitermeet",
+                "isPrimary": false
+            }
+        ]
+    }
+}

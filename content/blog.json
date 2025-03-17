@@ -1,0 +1,103 @@
+{
+    "hero": {
+        "title": "Latest Blogs from JupiterMeet",
+        "description": "Explore our featured blog post",
+        "image": "featured_blog_banner.png",
+        "bgcolor": "#f0f0f0",
+        "backgroundImage": "hero_background.png",
+        "ctas": [
+            {
+                "id": "1",
+                "title": "Read More",
+                "link": "https://example.com/featured-blog",
+                "isPrimary": true
+            }
+        ]
+    },
+    "blogArticles": {
+        "title": "Recent Blog Posts",
+        "description": "Catch up on our latest articles",
+        "data": [
+            {
+                "id": 1,
+                "thumbnail": "blog1_thumbnail.png",
+                "title": "Understanding WebRTC",
+                "description": "Dive deep into the world of WebRTC and its applications.",
+                "postedOn": "February 10, 2025",
+                "author": "JupiterMeet Team",
+                "readMoreLink": "https://example.com/blog1"
+            },
+            {
+                "id": 2,
+                "thumbnail": "blog2_thumbnail.png",
+                "title": "The Future of Video Conferencing",
+                "description": "Explore the future of video conferencing.",
+                "postedOn": "February 8, 2025",
+                "author": "JupiterMeet Team",
+                "readMoreLink": "https://example.com/blog2"
+            },
+            {
+                "id": 3,
+                "thumbnail": "blog3_thumbnail.png",
+                "title": "Security in Online Communication",
+                "description": "Learn about the importance of security in online communication.",
+                "postedOn": "February 5, 2025",
+                "author": "JupiterMeet Team",
+                "readMoreLink": "https://example.com/blog3"
+            }
+        ]
+    },
+    "knowMore": {
+        "title": "Know More About JupiterMeet",
+        "description": "Discover our services and features to enhance your experience.",
+        "links": [
+            {
+                "title": "Our Services",
+                "description": "Explore the range of services we offer.",
+                "link": "https://example.com/services"
+            },
+            {
+                "title": "Product Features",
+                "description": "Learn about the standout features of our products.",
+                "link": "https://example.com/features"
+            },
+            {
+                "title": "Pricing",
+                "description": "Check out our competitive pricing plans.",
+                "link": "https://example.com/pricing"
+            },
+            {
+                "title": "FAQs",
+                "description": "Find answers to common questions.",
+                "link": "https://example.com/faqs"
+            },
+            {
+                "title": "About Us",
+                "description": "Learn more about our mission and vision.",
+                "link": "https://example.com/about"
+            },
+            {
+                "title": "Contact Us",
+                "description": "Get in touch with our team for support.",
+                "link": "https://example.com/contact"
+            }
+        ]
+    },
+    "newsletter": {
+        "title": "Subscribe to Our Newsletter",
+        "description": "Stay updated with the latest insights from JupiterMeet.",
+        "formFields": {
+            "name": {
+                "required": false
+            },
+            "email": {
+                "required": true
+            },
+            "optIn": {
+                "description": "I agree to receive marketing emails.",
+                "required": true
+            }
+        },
+        "ctaButton": "Subscribe Now"
+    }
+}

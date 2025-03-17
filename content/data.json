@@ -1,0 +1,247 @@
+{
+    "hero": {
+        "title": "Experience Real Time Communication",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "image": "hero-section.jpg",
+        "ctas": [
+            {
+                "id": "1",
+                "title": "buy now",
+                "link": "https://thertclabs.com/",
+                "isPrimary": true
+            },
+            {
+                "id": "2",
+                "title": "contact us",
+                "link": "https://thertclabs.com/",
+                "isPrimary": false
+            }
+        ]
+    },
+    "logos": {
+        "title": "Trusted by many!",
+        "description": "sample description",
+        "images": [
+            "logos/logoipsum-227.svg",
+            "logos/logoipsum-236.svg",
+            "logos/logoipsum-237.svg",
+            "logos/logoipsum-240.svg",
+            "logos/logoipsum-250.svg",
+            "logos/logoipsum-253.svg",
+            "logos/logoipsum-255.svg",
+            "logos/logoipsum-259.svg",
+            "logos/logoipsum-297.svg",
+            "logos/logoipsum-347.svg"
+        ]
+    },
+    "services": {
+        "title": "Our services ",
+        "description": "sample description",
+        "data": [
+            {
+                "id": 1,
+                "title": "development",
+                "description": "we provide development services",
+                "image": "https://th.bing.com/th?id=OIP.GHlkiM6YmzosLpBY9wZLPQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+            },
+            {
+                "id": 2,
+                "title": "installation",
+                "description": "we provide installation services",
+                "image": "https://th.bing.com/th?id=OIP.fw1FleI_ERtlFAnydouxNQHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+            },
+            {
+                "id": 3,
+                "title": "consultation",
+                "description": "we provide consultation services",
+                "image": "https://th.bing.com/th?id=OIP.EecCVH4VmoXUaxar_A50egHaE_&w=304&h=205&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+            },
+            {
+                "id": 4,
+                "title": "customization",
+                "description": "we provide customization services",
+                "image": "https://th.bing.com/th?id=OIP.EB-E_6XIv0g_RQOS8H21uQHaDz&w=349&h=179&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+            },
+            {
+                "id": 2,
+                "title": "security",
+                "description": "we provide security services",
+                "image": "https://th.bing.com/th/id/OIP.ktAmfeqd_gP0mB9vqIvixgHaE8?w=234&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            },
+            {
+                "id": 2,
+                "title": "content management",
+                "description": "we provide content management services",
+                "image": "https://th.bing.com/th/id/OIP.eCnYbLDEKNYU7o1ETXHh4gHaEK?w=311&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            }
+        ]
+    },
+    "products": {
+        "title": "Our Ready-to-Use, WebRTC Solutions",
+        "description": "try out our products",
+        "data": [
+            {
+                "id": 1,
+                "title": "JupiterMeet",
+                "description": "my sample desc",
+                "image": "meet-back.jpg",
+                "ctaText": "Learn more",
+                "ctaLink1": "https://thertclabs.com/",
+                 "ctaLink2": "jupitermeet"
+            },
+            {
+                "id": 2,
+                "title": "JupiterMeet Pro",
+                "description": "sample description",
+                "image": "pro-back.jpg",
+                "ctaText": "Learn more",
+                "ctaLink1": "https://thertclabs.com/",
+                 "ctaLink2": "jupitermeet-pro"
+            }
+        ]
+    },
+    "tech": {
+        "title": "Our Technology Stack",
+        "images": [
+            "https://th.bing.com/th/id/OIP.5gf2JQQmWla-GU-WXTrGcgHaE8?w=244&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "https://th.bing.com/th/id/OIP.U16Sxl3a_xpV8R3xDGgMdQHaEK?w=311&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "https://th.bing.com/th/id/OIP.c2Y4eFhzMwJqnsIN8mqtzAHaEj?w=283&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "https://th.bing.com/th/id/OIP.hhivSYw_LqNw3T8iKd0ftgHaEX?w=307&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        ]
+    },
+    "stats": {
+        "title": "Made in India, Made for the World",
+        "description": "sample description",
+        "data": [
+            {
+                "id": "1",
+                "title": "Years in business",
+                "descriptipon": "5+",
+                "image": "https://th.bing.com/th/id/OIP.-RIfPB0H5Po-YH4qBnFl9gHaEK?w=265&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            },
+            {
+                "id": "2",
+                "title": "No. of licenses sold",
+                "descriptipon": "700+",
+                "image": "https://th.bing.com/th/id/OIP.47-s3YnOMQFXVv88mzzgwgHaES?w=305&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            },
+            {
+                "id": "3",
+                "title": "Countries served",
+                "descriptipon": "100+",
+                "image": "https://th.bing.com/th/id/OIP.M8JEe4AXXIY0m4HN-X-zCQHaE2?w=257&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            },
+            {
+                "id": "4",
+                "title": "Countries served",
+                "descriptipon": "100+",
+                "image": "https://th.bing.com/th/id/OIP.rHMikCjmvsueFwILeWNeEgHaFm?w=241&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            }
+        ]
+    },
+    "worldDominance": {
+        "title": "something",
+        "description": "sample description",
+        "image": "https://th.bing.com/th/id/OIP.Yvfh3RJ38abjK2zFOWGZsgHaFj?w=210&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    "showcase": {
+        "images": [
+            "jupitermeet/meet-7.png",
+            "jupitermeet/meet-10.png",
+            "jupitermeetpro/pro-7.png",
+            "jupitermeetpro/pro-6.png"
+        ],
+        "content": "Experience the power of JupiterMeet"
+    },
+    "whyChooseUs": {
+        "description": "benefits of JupiterMeet",
+        "demoImages": [
+            "jupitermeet/meet-7.png",
+            "jupitermeet/meet-10.png"
+        ],
+        "features": [
+            "Feature of JupiterMeet",
+            "Feature of jupiterMeet Pro"
+        ],
+        "content": "Highlighting key benefits"
+    },
+    "testimonials": {
+        "title": "sample title",
+        "description": "sample description",
+        "data": [
+            {
+                    "id": "1",
+                    "title": "name of user",
+                    "description": "review of the user",
+                    "image": "https://th.bing.com/th/id/OIP._nXNtUe_NAiy250X4Dd4oAHaDp?w=301&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"      
+            },
+            {
+                "id": "2",
+                "title": "name of user",
+                "description": "review of the user",
+                "image": "https://th.bing.com/th/id/OIP.hPXOIj5PXoFx4vyIO31WDgHaE8?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"      
+            },
+            {
+                "id": "2",
+                "title": "name of user",
+                "description": "review of the user",
+                "image": "https://th.bing.com/th/id/OIP.hPXOIj5PXoFx4vyIO31WDgHaE8?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"      
+            }
+        ]
+    },
+    "coreValues": {
+        "title": "sample title",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "image": "https://th.bing.com/th/id/OIP.cEljp0PpzU9sg9jyuLNFeQHaFa?w=231&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "data": {
+            "values": [
+                {
+                    "id": "1",
+                    "title": "Sample value 1",
+                    "description": "sample description",
+                    "image": "https://th.bing.com/th/id/OIP.5g54qZCPRDhg6Kc-9ggqIAHaDc?w=334&h=162&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+                },
+                {
+                    "id": "2",
+                    "title": "Sample value 2",
+                    "description": "sample description",
+                    "image": "https://th.bing.com/th/id/OIP.dKd1skxaiLRwJKkkr69bWQHaCu?w=336&h=129&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+                },
+                {
+                    "id": "3",
+                    "title": "Sample value 3",
+                    "description": "sample description",
+                    "image": "https://th.bing.com/th/id/OIP.fzvJZQ_dhIq9x0L-cwiS5AHaF-?w=218&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+                }
+            ]
+        }
+    },
+    "compliance": {
+        "gdpr": "Security and data protection Highlight"
+    },
+    "faq": {
+        "icon": "https://th.bing.com/th/id/OIP.1Ug154ZqZXxR0QdrauL5jQHaEA?w=299&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "title": "Frequently Asked Questions",
+        "description": "Answers",
+        "qa": {
+            "samplequestion": "sample answer"
+        }
+    },
+    "catchyLine": {
+        "text": "Real-Time Connections, Redefined: Powered by WebRTC, Svelte, and Laravel. It's concise conveys the tech stack, and emphasizes the cutting-edge real-time communication aspect of you website. What do you think? 😊 If you need more options or want to tweak it, just let me know!"
+    },
+    "ctas": [
+            {
+                "id": "1",
+                "title": "buy now",
+                "link": "https://example.com/",
+                "isPrimary": true
+            },
+            {
+                "id": "2",
+                "title": "contact us",
+                "link": "https://example.com/",
+                "isPrimary": false
+            }
+        ]
+}
