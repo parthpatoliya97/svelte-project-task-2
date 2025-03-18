@@ -1,7 +1,7 @@
 <script>
 	export let data;
 	console.log(data);
-	const { hero, logos, features, pricing, howItWorks, gallery, testimonials, faq, ctas } = data;
+	const { hero, logos, features, pricing, howItWorks, gallery, testimonials, faq, ctas } = data.data;
 </script>
 
 <!-- hero section -->

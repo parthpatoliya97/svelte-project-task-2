@@ -1,5 +1,6 @@
-import fs from 'fs'
-export async function load({params}){
-    const data=JSON.parse(fs.readFileSync('content/'+params.productname+'.json','utf-8'))
-    return data
+export async function load({ params }) {
+    const data = await import(`$lib/content/${params.productname}.json`);
+    return { data: data.default };
 }
+
+

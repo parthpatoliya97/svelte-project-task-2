@@ -1,5 +1,6 @@
 <script>
     export let data;
+    console.log(data)
     const {
       hero,
       logos,
@@ -16,7 +17,8 @@
       faq,
       catchyLine,
       ctas,
-    } = data;
+    } = data.data;
+    console.log(hero)
   </script>
   
   <!-- HERO SECTION -->

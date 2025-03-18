@@ -1,7 +1,7 @@
 <script>
 	export let data;
 	const { hero, products, logos, features, pricing, howItWorks, gallery, testimonials, faq, ctas } =
-		data;
+		data.data;
 </script>
 
 <!-- hero section -->
