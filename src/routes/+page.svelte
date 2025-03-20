@@ -18,7 +18,7 @@
       catchyLine,
       ctas,
     } = data.data;
-    console.log(hero)
+  
   </script>
   
   <!-- HERO SECTION -->
